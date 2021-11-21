@@ -1,4 +1,4 @@
-package com.javatechie.aws.sqs;
+package com.javax4u.aws.sqs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
